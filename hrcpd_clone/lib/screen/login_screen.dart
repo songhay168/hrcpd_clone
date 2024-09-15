@@ -112,7 +112,7 @@ class _LoginScreenState extends State<LoginScreen> {
           const SizedBox(
             height: 20,
           ),
-          Text("នាយកដ្ឋានប្រព័ន្ធព័ត៌មានគ្រប់គ្រងអប់រំ",
+          Text("HRCPD",
               style: TextStyle(
                   color: Color.fromARGB(255, 68, 118, 243),
                   fontFamily: 'Meta Chrieng',
